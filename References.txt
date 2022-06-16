@@ -1,0 +1,89 @@
+References
+
+
+Stemme: Resonant silicon sensors, J. Micromech. Microeng. 1 (1991) 113-125
+
+H.A.C. Tilmans, M. Elwenspoek, J.H.J. Fluitman: Micro resonant force gauges, Sensors and Actuators A30 (1992) 35-53
+
+R.A. Buser: Resonant Sensors, in: Sensors, Vol. 7, Mechanical Sensors, ed. H.H. Bau, N.F. de Rooij, B. Kloeck (VCH, Weinheim, 1994) pp. 205-284
+
+S. Büttgenbach: Mikromechanik (Teubner, Stuttgart, 1991)
+
+J.C. Greenwood, D.W. Satchell: Mi­niature silicon resonant pressure sensor, IEE Pro­ceedings 135 (1988) 369-372
+
+K. Ikeda, H. Kuwayama, T. Ko­bayashi, T. Watanabe, T. Nishikawa, T. Yoshida, K. Harada: Silicon pressure sensor integrates resonant strain gauge on diaphragm, Sensors and Actuators A21-A23 (1990) 146-150
+
+K.E.B. Thornton, D. Uttamchandani, B. Culshaw: A sensitive optically excited resonator pressure sensor, Sensors and Actuators A24 (1990) 15-19
+
+R.A. Buser, L. Schultheis, N.F. de Rooij: Silicon pressure sensor based on a resonating element, Sensors and Actuators A25-27 (1991) 717-722
+
+K. Petersen, F. Pourahmadi, J. Brown, P. Parsons, M. Skinner and J. Tudor: Resonant silicon beam pressure sensor fabricated with silicon fusion bonding, Proc. 6th Int. Conf. Solid-State Sensors and Actuators (Transducers ’91), San Francisco, 1991, pp. 664-667
+
+A. Schumacher, M. Alavi, Th. Fabula, B. Schmidt, H.-J. Wagner: Monolithic bridge-on-diaphragm microstructure for sensor applications, Proc. Micro System Technologies 94, Berlin, 1994
+
+Th. Fabula, H.-J. Wagner, B. Schmidt, S. Bütt­genbach: Triple-beam resonant silicon force sensor based on piezoelectric thin films, Sensors and Actuators A41-42 (1994) 375-380
+
+H.A.C. Tilmans: Micro-mechanical encapsulated built-in resonant strain gauges, Ph.D. thesis (University of Twente, Ensche­de, 1993)
+
+K.J. Bathe: Finite element procedures in engi­neering analysis (Prentice Hall Inc., Englewood Cliffs, 1982)
+
+J.G. Smits, H.A.C. Tilmans, K. Hoen, H. Mulder, J. van Vuuren, G. Boom: Resonant diaphagm pressure measurement system with ZnO on Si excitation, Sensors and Actuators 4 (1983) 565-571
+
+A. Prak: Silicon resonant sensors: operation und response, Ph.D. thesis (University of Twente, Enschede, 1993)
+
+W. Weaver, S.P. Timoshenko, D.H. Young: Vibration problems in engineering (John Wiley & Sons, New York, 1990)
+
+S. Bouwstra, B. Geijselaers: On the resonance frequencies of micro­bridges, Proc. 6th Int. Conf. Solid-State Sensors and Actuators (Transducers `91), San Francisco, 1991, pp. 538-542
+
+S.P. Timoshenko, S. Woinowsky-Krieger: Theory of plates and shells (McGraw-Hill Book Co., New York, 1987)
+
+D. Young: Vibration of rectangular plates by the Ritz method, J. Appl. Mech., Dec. (1950) 448-453
+
+R.D. Blevins: Formulas for natural fre­quency and mode shapes (Krieger Publishing Company, Malabar, 1984)
+
+P. Pons, G. Blasquez: Natural vibration frequencies of sili­con dia­phragms, Proc. 6th Int. Conf. Solid-State Sensors and Actuators (Transducers `91), San Francis­co, 1991, pp. 543-546
+
+D. Uttamchandani, K.E.B. Thornton, J. Nixon, B. Culshaw: Optically excited resonant diaphragm pressure sensor, Electron. Lett. 23 (1987) 152-153
+
+Th. Fabula, A. Schroth: Simulation des dynamischen Verhaltens mikro-mechanischer Membranen, VDI-Berichte 960 (VDI, Düsseldorf, 1992)
+
+H.L. Chau, K.D. Wise: Scaling limits in batch-fabricated silicon pressure sensors, IEEE Trans. Electron Devices ED-34 (1987) 850-858
+
+D. Braess: Finite Elemente (Springer, Berlin, 1991)
+
+P.G. Ciarlet: The finite element method for elliptical problems (North-Holland, Amsterdam, 1978)
+
+A. Matzenmiller, W. Rust: ANSYS-Seminar Notes: Nonlinearities (CADFEM GmbH, Grafing, 1993)
+
+P. Kohnke (ed.): ANSYS User’s Manual for Revision 5.0, Volume IV, Theory (Swanson Analysis Systems, Inc., Houston, 1992)
+
+C.C. Rankin, F.A. Brogan: An element independent corotational procedure for the treatment of large rotations, J. Pressure Vessel Techn. 108 (1986) 165-174
+
+H. Allik, T.J.R. Hughes: Finite element method for piezoelectric vibration, Int. J. Numerical Methods in Engineering 2 (1970) 151-157
+
+L.D. Clayton, S.R. Swanson, E.P. EerNis­se: Modifications of the double-ended tuning fork geometry for reduced coupling to its surroundings: finite element analysis and experiments, IEEE Trans. Ultrasonics, Ferroelect., Freq. Control UFFC-34 (1987) 243-252
+
+S.P. Beeby, M.J. Tudor: Modelling and optimisation of micromachined silicon resonators, Techn. Digest, Micromechanics Europe ’94, Pisa, Italy, 1994, pp. 44-47
+
+M. Alavi, Th. Fabula, A. Schumacher, H.-J. Wagner: Monolithic microbridges in silicon using laser machining and anisotropic etching, Sensors and Actuators A37-38 (1993) 661-665
+
+Swanson Analysis Systems, Inc., Houston, USA
+
+Landolt-Börnstein: Zahlenwerte und Funktionen aus Naturwissenschaft und Technik, Gruppe III, Band 17a (Springer, Berlin, 1982)
+
+G.J. Tijhuis: Onderzoek naar het druk-frequentie verband van een reso­nerende membraan druksensor, Diploma thesis (University of Twen­te, Enschede, 1987)
+
+Th. Fabula: Dynamische Berechnungen in der Mikromechanik – Simulation / Messung, Proc. 10. ANSYS Users´ Meeting, Arolsen (CADFEM GmbH, Grafing, 1992)
+
+H.J.M. Geijselaers, H. Tijdeman: The dynamic mecha­nical charac­teristics of a resonating microbridge mass-flow sensor, Sen­sors and Actuators A29 (1991) 37-41
+
+
+Th. Fabula, N. Hey, S. Messner: Gekoppelte Feldberechnung eines mikromechanischen Strömungssensors, Proc. 11. CADFEM Users’ Meeting, Bamberg (CADFEM GmbH, Grafing, 1993)
+
+Th. Fabula: Dynamisches Verhalten mikromechanischer Strukturen – Finite Elemente Simulation zur Entwurfsunterstützung und deren meßtechnische Verifikation, Ph.D. thesis (University of Bonn, 1994)
+
+R. Lerch: Simulation of piezoelectric devices by two- and three-dimen­sional finite elements, IEEE Trans. Ultrasonics, Ferroelect., Freq. Control UFFC-37 (1990) 233-247
+
+G. Flik (Robert Bosch GmbH): private communication
+
+SDRC: Structural Dynamics Research Corporation, Milford, USA
