@@ -1,3 +1,3 @@
 # Modeling-of-Resonant-Silicon-Microsensors
 
-Analystical calculations and numercial finite-element analyses, MEMS resonators
+Analytical calculations and numercial finite-element analyses (FEM), MEMS resonators, piezoelectric thin-film layers
