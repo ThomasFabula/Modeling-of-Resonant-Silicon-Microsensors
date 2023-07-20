@@ -2,7 +2,8 @@
 
 ## Analytical calculations 
 
-## numercial finite-element analyses (FEM)
+## Numercial finite-element analyses (FEM)
+- https://tfconsult.com/resonant-microsensors/
 
 ## MEMS 
 - resonators,
