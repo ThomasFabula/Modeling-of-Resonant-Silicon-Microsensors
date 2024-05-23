@@ -2,8 +2,8 @@
 
 ## Analytical calculations 
 ANALYTISCHE AUSLEGUNG VON RESONANTEN SENSOREN
-- https://tfconsult.com/fe-modellierung-resonanter-sensoren/
-- https://tfconsult.com/fe-modeling-of-resonant-sensors/
+- DE: https://tfconsult.com/fe-modellierung-resonanter-sensoren/
+- EN: https://tfconsult.com/fe-modeling-of-resonant-sensors/
 
 ## Numercial finite-element analyses (FEM)
 - https://tfconsult.com/resonant-microsensors/
