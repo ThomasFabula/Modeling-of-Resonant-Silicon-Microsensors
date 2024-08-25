@@ -9,7 +9,6 @@ ANALYTISCHE AUSLEGUNG VON RESONANTEN SENSOREN
 - https://tfconsult.com/resonant-microsensors/
 - https://tfconsult.com/tag/FASENS/
 - https://tfconsult.com/tag/fem/
-- 
 
 ## MEMS 
 - Silicon & Quartz resonators,
