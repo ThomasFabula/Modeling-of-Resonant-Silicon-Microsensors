@@ -9,7 +9,9 @@ ANALYTISCHE AUSLEGUNG VON RESONANTEN SENSOREN
 - https://tfconsult.com/resonant-microsensors/
 - https://tfconsult.com/tag/FASENS/
 - https://tfconsult.com/tag/fem/
+- https://tfconsult.com/tag/bmft/
 
 ## MEMS 
+micro-electro-mechanical-systems
 - Silicon & Quartz resonators,
-- piezoelectric ZnO thin-film layers
+- piezoelectric thin-film layers (AlN, ZnO)
