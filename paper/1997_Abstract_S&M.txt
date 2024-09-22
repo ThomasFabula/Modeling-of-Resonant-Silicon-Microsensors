@@ -1,3 +1,5 @@
+ABSTRACT
+
 “This paper is concerned with the modeling of resonant silicon microsensors using analytical
 as well as finite-element methods. In the case of simple resonator structures, ideal boundary
 conditions and isotropic material properties, analytical methods can be used to model the 
