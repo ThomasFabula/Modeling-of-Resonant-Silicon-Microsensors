@@ -1,0 +1,23 @@
+!  Datei: MODAL.SOL
+manz=3
+mdof=100
+
+/solu                    ! Displacemnet Pass
+antype,modal
+! modop,redu,manz,,,,1     ! Householder reduced 
+modop,subs,manz,,,,1     ! Subspace Iteration Technique
+outpr,all,1              ! list all solution items
+/pbc,master,1            ! show master selcetion
+! total,mdof               ! maximal masters
+solv
+! nplo
+fini
+
+/solu
+expass,on              ! Expansion Pass
+mxpa,manz,,,yes        ! Number of modes to be expanded
+solv
+fini
+
+/post1
+set,list
