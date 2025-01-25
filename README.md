@@ -7,11 +7,11 @@ ANALYTISCHE AUSLEGUNG VON RESONANTEN SENSOREN
 
 ## Numercial finite-element analyses (FEM)
 - https://tfconsult.com/resonant-microsensors/
+- https://tfconsult.com/tag/modalanalyse/
 - https://tfconsult.com/tag/FASENS/
 - https://tfconsult.com/tag/fem/
 - https://tfconsult.com/tag/zno/
 - https://tfconsult.com/tag/piezo/
-- https://tfconsult.com/tag/pzt/
 - https://tfconsult.com/tag/bmft/
 
 ## MEMS 
