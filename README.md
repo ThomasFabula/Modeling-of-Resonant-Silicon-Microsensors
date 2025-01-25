@@ -1,7 +1,7 @@
 # Modeling-of-Resonant-Silicon-Microsensors
 
 ## Analytical calculations 
-ANALYTISCHE AUSLEGUNG VON RESONANTEN SENSOREN
+Analystische Auslegung von resonanten Sensoren 
 - DE: https://tfconsult.com/fe-modellierung-resonanter-sensoren/
 - EN: https://tfconsult.com/fe-modeling-of-resonant-sensors/
 
