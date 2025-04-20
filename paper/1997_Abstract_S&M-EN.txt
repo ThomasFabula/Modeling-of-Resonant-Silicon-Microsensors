@@ -1,0 +1,13 @@
+ABSTRACT - ZUSAMMENFASSUNG
+
+„Diese Arbeit befasst sich mit der Modellierung von resonanten Silizium-Mikrosensoren unter Verwendung analytischer
+sowie Finite-Elemente-Methoden. Bei einfachen Resonatorstrukturen, idealen Randbedingungen und isotropen
+Materialeigenschaften können analytische Methoden zur Modellierung des dynamischen Verhaltens von resonanten
+Mikrosensoren verwendet werden. Bei komplexeren Resonatorstrukturen, beliebigen Randbedingungen, anisotropen
+Materialeigenschaften, mehrschichtigen Strukturen und bei Vorhandensein von gekoppelten Feldeffekten eignet 
+sich die Finite-Elemente-Methode gut zur Simulation des Verhaltens von resonanten Mikrostrukturen. 
+Mit Hilfe von balkenförmigen Kraft- und Membrandrucksensoren wird die Eignung dieser Methode zur Berechnung 
+von Eigenfrequenzen, Modalformen, lastabhängigen Frequenzänderungen und Kreuzempfindlichkeiten sowie zur
+Optimierung die Resonatorgeometrie hinsichtlich Modenselektivität, Modentkopplung, elektromechanischer 
+Kopplungseffizienz sowie Messbereich und Empfindlichkeit zu optimieren. Die numerischen Ergebnisse werden
+mit experimentellen Daten verglichen, um die Finite-Elemente-Modelle zu verifizieren.“
