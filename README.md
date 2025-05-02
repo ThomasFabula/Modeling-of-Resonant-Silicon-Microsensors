@@ -14,6 +14,8 @@ Analystische Auslegung von resonanten Sensoren / Analytical design of resonant s
 - https://tfconsult.com/tag/zno/
 - https://tfconsult.com/tag/piezo/
 - https://tfconsult.com/tag/bmft/
+- https://tfconsult.com/tag/quarz/
+- https://tfconsult.com/tag/MEMS/
 
 ## MEMS 
 micro-electro-mechanical-systems
