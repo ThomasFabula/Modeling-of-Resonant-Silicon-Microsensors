@@ -6,7 +6,7 @@ Analystische Auslegung von resonanten Sensoren / Analytical design of resonant s
 - DE: https://tfconsult.com/fe-modellierung-resonanter-sensoren/
 - EN: https://tfconsult.com/fe-modeling-of-resonant-sensors/
 
-## Numercial finite-element analyses (FEM)
+## Numerical finite-element analyses (ANSYS FEM)
 - https://tfconsult.com/resonant-microsensors/
 - https://tfconsult.com/tag/modalanalyse/
 - https://tfconsult.com/tag/FASENS/
