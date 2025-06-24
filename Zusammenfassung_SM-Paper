@@ -34,7 +34,7 @@ Die Arbeit befasst sich mit der Modellierung von resonanten Silizium-Mikrosensor
 Diese Methoden ermöglichen die Simulation des dynamischen Verhaltens komplexer Resonatorstrukturen.
 •	Resonante Sensoren ändern ihre Ausgangsfrequenz in Abhängigkeit von der zu messenden Größe.
 •	Sie bieten hohe Empfindlichkeit, hohe Auflösung und semi-digitale Ausgaben.
-•	Die Herstellung erfolgt durch Bulk-Mikromachining-Technologien wie anisotropes Nassätzen und Dünnschichtabscheidung.
+•	Die Herstellung erfolgt durch Bulk-Mikromachining-Technologien wie anisotropes Naßätzen und Dünnschichtabscheidung.
 
 Analytische und numerische Methoden
 Für einfache Resonatorstrukturen können analytische Methoden verwendet werden, während komplexe Strukturen die finite-Elemente-Methode erfordern.
@@ -58,16 +58,16 @@ Einschränkungen analytischer Methoden
 Analytische Lösungen sind nur in speziellen Fällen möglich und haben mehrere Einschränkungen.
 •	Exakte Randbedingungen können oft nicht berücksichtigt werden.
 •	Anisotrope Materialeigenschaften und mehrschichtige Systeme sind schwer zu modellieren.
-•	Die finite-Elemente-Methode bietet eine bessere Flexibilität und Genauigkeit für komplexe Probleme.
+•	Die Finite-Elemente-Methode bietet eine bessere Flexibilität und Genauigkeit für komplexe Probleme.
 
-Mathematische Grundlagen der finite-Elemente-Methode
-Die mathematischen Grundlagen der finite-Elemente-Methode werden erläutert, einschließlich der Gleichungen für elastische Körper.
+Mathematische Grundlagen der Finite-Elemente-Methode
+Die mathematischen Grundlagen der Finite-Elemente-Methode werden erläutert, einschließlich der Gleichungen für elastische Körper.
 •	Die Bewegungsgleichung wird durch Variationsansätze abgeleitet.
 •	Die schwache Formulierung ermöglicht die numerische Lösung komplexer Probleme.
 •	Die Finite-Elemente-Analyse erfordert die Diskretisierung des Modells in endliche Elemente.
 
 Programmimplementierung und nichtlineare Effekte
-Die Implementierung der finite-Elemente-Methode in Programmen wird beschrieben, einschließlich der Berücksichtigung nichtlinearer Effekte.
+Die Implementierung der Finite-Elemente-Methode in Programmen wird beschrieben, einschließlich der Berücksichtigung nichtlinearer Effekte.
 •	Die Matrixgleichung für statische Analysen wird vorgestellt.
 •	Geometrische Nichtlinearitäten und Spannungssteifung müssen berücksichtigt werden.
 •	Dynamische elektromechanische gekoppelte Analysen verwenden spezielle Matrizen für die Wechselwirkungen zwischen mechanischen und elektrischen Feldern.
@@ -77,7 +77,7 @@ Die Verwendung von Finite-Elemente-Methoden (FEM) ermöglicht eine signifikante 
 und bietet Einblicke in deren Betriebsweise. FEM ist besonders nützlich für die Modellierung der dynamischen Reaktion von resonanten Sensoren 
 und zur Vorhersage ihrer Leistung unter Betriebsbedingungen.
 •	FEM ermöglicht die Analyse von Resonanzfrequenzen und Moden von Mikrosensoren.
-•	Die Modellierung hilft bei der Optimierung von Geometrien, z.B. von Klemm- und Entkopplungsregionen.
+•	Die Modellierung hilft bei der Optimierung von Geometrien, z.B. von Einspannungs- und Entkopplungsregionen.
 •	FEM wird für die Entwicklung von mehrschichtigen Strukturen wie piezoelektrisch betriebenen Mikrosensoren verwendet.
 
 Eigenfrequenzen und Moden von Drucksensoren
@@ -114,7 +114,7 @@ der ZnO-Schicht.
 Optimierung von Resonatoren und Moden
 Die Optimierung von resonanten Mikrosensoren erfordert Kenntnisse über deren internes Verhalten, was durch FEM-Modelle erreicht wird. 
 Verschiedene geometrische Konfigurationen wurden untersucht, um die Leistung der Sensoren zu verbessern.
-•	Die Resonanzfrequenzen der ersten drei flexiblen Vibrationsmoden wurden in Abhängigkeit von der Länge der Entkopplungszone analysiert.
+•	Die Resonanzfrequenzen der ersten drei Schwingungsmoden wurden in Abhängigkeit von der Länge der Entkopplungszone analysiert.
 •	Eine gute mechanische Entkopplung kann durch eine Entkopplungszonenlänge von 200-300 µm erreicht werden.
 •	Die Druckempfindlichkeit variiert je nach Seitenlängen und Dicke der Membran zwischen 0,5 kHz/bar und 11 kHz/bar.
 
