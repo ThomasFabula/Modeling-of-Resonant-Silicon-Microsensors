@@ -1,0 +1,110 @@
+S&M308
+Published: 1997
+
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors [PDF]
+
+Thomas Fabula and Stephanus Büttgenbach
+
+Sensors and Materials, Vol. 9, No. 8 (1997) 501-51 9 
+MYU Tokyo S &M0308 
+
+https://sensors.myu-group.co.jp/article.php?ss=10308
+------------------------------------------------------------------------
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors 
+------------------------------------------------------------------------
+Thomas Fabula* and Stephanus Büttgenbach1 
+
+lnstitut für Mikro- und Informationstechnik der Hahn-Schickard-Gesellschaft für angewandte Forschung e. V., 
+Wilhelm-Schickard-Straße 10, 
+D-78052 Villingen-Schwenningen, Germany 
+
+1Institut für Mikrotechnik der Technischen Universität Braunschweig, 
+Langer Kamp 8, 
+D-38106 Braunschweig, Germany 
+
+(Received June 12, 199 5; accepted March 4, 199 6)
+
+
+ZUSAMMENFASSUNG 
+
+Das Dokument behandelt die analytische und finite-Elemente-Modellierung von resonanten Silizium-Mikrosensoren zur Messung von Kräften und Druck.
+
+Modellierung von resonanten Mikrosensoren
+Die Arbeit befasst sich mit der Modellierung von resonanten Silizium-Mikrosensoren unter Verwendung analytischer und finite-Elemente-Methoden. Diese Methoden ermöglichen die Simulation des dynamischen Verhaltens komplexer Resonatorstrukturen.
+•	Resonante Sensoren ändern ihre Ausgangsfrequenz in Abhängigkeit von der zu messenden Größe.
+•	Sie bieten hohe Empfindlichkeit, hohe Auflösung und semi-digitale Ausgaben.
+•	Die Herstellung erfolgt durch Bulk-Mikromachining-Technologien wie anisotropes Nassätzen und Dünnschichtabscheidung.
+
+Analytische und numerische Methoden
+Für einfache Resonatorstrukturen können analytische Methoden verwendet werden, während komplexe Strukturen die finite-Elemente-Methode erfordern.
+•	Analytische Modelle sind für ideale Randbedingungen und isotrope Materialeigenschaften geeignet.
+•	Die finite-Elemente-Methode ist für komplexe Resonatoren mit beliebigen Randbedingungen und anisotropen Materialien besser geeignet.
+•	Beispiele für komplexe Resonatoren sind 'Butterfly'-Resonatoren und 'Beam-on-Diaphragm'-Strukturen.
+
+Aufbau und Funktionsweise von Mikrosensoren
+Der allgemeine Aufbau eines piezoelektrisch betriebenen resonanten Druck- oder Kraftmikrosensors wird beschrieben.
+•	Der resonante Bestandteil besteht aus einer Siliziummembran oder einem Balken.
+•	Piezoelektrische Dünnschichten, wie Zinkoxid (ZnO), werden zur Anregung und Detektion der Vibrationen verwendet.
+•	Der Prozess umfasst das Strukturieren, Dotieren und Ätzen, um die gewünschte Dicke zu erreichen.
+
+Dynamisches Verhalten von Balken- und Membranresonatoren
+Das dynamische Verhalten von doppelt eingespannten Balken und allseitig eingespannten Membranen wird analysiert.
+•	Die Schwingungsfrequenzen und Modenformen können analytisch berechnet werden.
+•	Für Balken wird eine partielle Differentialgleichung verwendet, die die vertikalen Verschiebungen beschreibt.
+•	Die Resonanzfrequenzen hängen von der Geometrie und den Materialeigenschaften ab.
+
+Einschränkungen analytischer Methoden
+Analytische Lösungen sind nur in speziellen Fällen möglich und haben mehrere Einschränkungen.
+•	Exakte Randbedingungen können oft nicht berücksichtigt werden.
+•	Anisotrope Materialeigenschaften und mehrschichtige Systeme sind schwer zu modellieren.
+•	Die finite-Elemente-Methode bietet eine bessere Flexibilität und Genauigkeit für komplexe Probleme.
+
+Mathematische Grundlagen der finite-Elemente-Methode
+Die mathematischen Grundlagen der finite-Elemente-Methode werden erläutert, einschließlich der Gleichungen für elastische Körper.
+•	Die Bewegungsgleichung wird durch Variationsansätze abgeleitet.
+•	Die schwache Formulierung ermöglicht die numerische Lösung komplexer Probleme.
+•	Die Finite-Elemente-Analyse erfordert die Diskretisierung des Modells in endliche Elemente.
+
+Programmimplementierung und nichtlineare Effekte
+Die Implementierung der finite-Elemente-Methode in Programmen wird beschrieben, einschließlich der Berücksichtigung nichtlinearer Effekte.
+•	Die Matrixgleichung für statische Analysen wird vorgestellt.
+•	Geometrische Nichtlinearitäten und Spannungssteifung müssen berücksichtigt werden.
+•	Dynamische elektromechanische gekoppelte Analysen verwenden spezielle Matrizen für die Wechselwirkungen zwischen mechanischen und elektrischen Feldern.
+
+Nutzung von FEM zur Optimierung von Mikrosensoren
+Die Verwendung von Finite-Elemente-Methoden (FEM) ermöglicht eine signifikante Reduzierung der Zeit für Design und Fertigung von Mikrosensoren und bietet Einblicke in deren Betriebsweise. FEM ist besonders nützlich für die Modellierung der dynamischen Reaktion von resonanten Sensoren und zur Vorhersage ihrer Leistung unter Betriebsbedingungen.
+•	FEM ermöglicht die Analyse von Resonanzfrequenzen und Moden von Mikrosensoren.
+•	Die Modellierung hilft bei der Optimierung von Geometrien, z.B. von Klemm- und Entkopplungsregionen.
+•	FEM wird für die Entwicklung von mehrschichtigen Strukturen wie piezoelektrisch betriebenen Mikrosensoren verwendet.
+
+Eigenfrequenzen und Moden von Drucksensoren
+Die FEM wurde verwendet, um die Eigenwerte und Moden eines resonanten Drucksensors zu berechnen, der aus einer quadratischen Siliziummembran besteht. Die Ergebnisse zeigen eine hohe Übereinstimmung zwischen numerischen, analytischen und experimentellen Werten.
+•	Der Drucksensor hat eine Dicke von 50 µm und Seitenlängen von 9,2 mm.
+•	Die Resonanzfrequenzen der höheren Vibrationsmoden sind um weniger als 4% von den analytischen Ergebnissen abweichend.
+•	Die intrinsische Spannung in der ZnO-Schicht wurde auf etwa -15 MPa geschätzt.
+
+Lastabhängige Frequenzänderungen
+Die Deflexion der Membran aufgrund von Druckunterschieden wurde durch nichtlineare Analysen unter Berücksichtigung von Spannungssteifung und großen Deflexionen berechnet. Verschiedene FEM-Modelle wurden verwendet, um den Einfluss von Materialverhalten und Randbedingungen zu untersuchen.
+•	Die Resonanzfrequenz des Sensors beträgt 8317 Hz mit einer Druckempfindlichkeit von 12,4 Hz/mbar.
+•	Abweichungen zwischen gemessenen und berechneten Werten liegen zwischen 2-19%.
+•	Die Abweichungen sind auf intrinsische Spannungen und unbekannte Materialeigenschaften zurückzuführen.
+
+Thermisches Verhalten von Mikrosensoren
+Temperaturänderungen beeinflussen stark die Eigenschaften von resonanten Mikrosensoren, einschließlich der Resonanzfrequenz und der Möglichkeit von Knickungen. FEM-Modelle wurden verwendet, um die temperaturabhängigen Eigenschaften von resonierenden Sensoren zu charakterisieren.
+•	Der kritische Temperaturunterschied, bei dem die Membran knickt, beträgt etwa 27 K.
+•	Die maximale statische Deflexion der Membran wurde mit 70-77 µm berechnet.
+•	Temperaturkompensationsmethoden wurden untersucht, um die Temperaturempfindlichkeit zu reduzieren.
+
+Piezoelektrische Anregung und Effizienz
+Die Effizienz der Umwandlung von elektrischer in mechanische Energie wird durch den effektiven elektromechanischen Kopplungsfaktor (keff) charakterisiert. FEM-Analysen zeigen signifikante Abweichungen zwischen berechneten und gemessenen Werten aufgrund von Restspannungen in der ZnO-Schicht.
+•	Der maximale keff für ZnO beträgt 0,22, während für PZT 0,38 erreicht wird.
+•	Abweichungen von bis zu 52% zwischen berechneten und gemessenen Werten wurden festgestellt.
+•	Die Optimierung des keff ist durch die Wahl des optimalen Dickenverhältnisses möglich.
+
+Optimierung von Resonatoren und Moden
+Die Optimierung von resonanten Mikrosensoren erfordert Kenntnisse über deren internes Verhalten, was durch FEM-Modelle erreicht wird. Verschiedene geometrische Konfigurationen wurden untersucht, um die Leistung der Sensoren zu verbessern.
+•	Die Resonanzfrequenzen der ersten drei flexiblen Vibrationsmoden wurden in Abhängigkeit von der Länge der Entkopplungszone analysiert.
+•	Eine gute mechanische Entkopplung kann durch eine Entkopplungszonenlänge von 200-300 µm erreicht werden.
+•	Die Druckempfindlichkeit variiert je nach Seitenlängen und Dicke der Membran zwischen 0,5 kHz/bar und 11 kHz/bar.
+
+
