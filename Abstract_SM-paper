@@ -1,0 +1,145 @@
+S&M308
+Published: 1997
+
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors [PDF]
+
+Thomas Fabula and Stephanus Büttgenbach
+
+Sensors and Materials, Vol. 9, No. 8 (1997) 501-51 9 
+
+MYU Tokyo S &M0308 
+
+https://sensors.myu-group.co.jp/article.php?ss=10308
+
+------------------------------------------------------------------------
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors
+------------------------------------------------------------------------
+
+Thomas Fabula(*) and Stephanus Büttgenbach(1)
+
+(*) Institute for Micro and Information Technology of the Hahn-Schickard Society for Applied Research,
+Wilhelm-Schickard-Straße 10,
+D-78052 Villingen-Schwenningen, Germany
+
+(1)Institute for Microtechnology, Technical University of Braunschweig,
+Langer Kamp 8,
+D-38106 Braunschweig, Germany
+
+(Received June 12, 1995; accepted March 4, 1996)
+
+
+ABSTRACT
+
+This document deals with the analytical and finite element modeling of resonant silicon microsensors for measuring forces and pressure.
+
+
+Modeling of resonant microsensors
+
+This work deals with the modeling of resonant silicon microsensors using analytical and finite element methods.
+ 
+These methods enable the simulation of the dynamic behavior of complex resonator structures.
+• Resonant sensors change their output frequency depending on the quantity to be measured.
+• They offer high sensitivity, high resolution, and semi-digital outputs.
+• They are manufactured using bulk micromachining technologies such as anisotropic wet etching and thin-film deposition.
+
+
+Analytical and numerical methods
+
+Analytical methods can be used for simple resonator structures, while complex structures require the finite element method.
+• Analytical models are suitable for ideal boundary conditions and isotropic material properties.
+• The finite element method is more suitable for complex resonators with arbitrary boundary conditions and anisotropic materials.
+• Examples of complex resonators are butterfly resonators and beam-on-diaphragm structures.
+
+
+Structure and function of microsensors
+
+The general structure of a piezoelectrically operated resonant pressure or force microsensor is described.
+• The resonant component consists of a silicon membrane or a beam.
+• Piezoelectric thin films, such as zinc oxide (ZnO), are used to excite and detect the vibrations.
+• The process involves structuring, doping, and etching to achieve the desired thickness.
+
+Dynamic behavior of beam and membrane resonators
+
+The dynamic behavior of double-clamped beams and membrane resonators clamped on all sides is analyzed.
+• The vibration frequencies and mode shapes can be calculated analytically.
+• For beams, a partial differential equation is used to describe the vertical displacements.
+• The resonance frequencies depend on the geometry and material properties.
+
+Limitations of analytical methods
+
+Analytical solutions are only possible in special cases and have several limitations.
+• Exact boundary conditions often cannot be taken into account.
+• Anisotropic material properties and multilayer systems are difficult to model.
+• The finite element method offers better flexibility and accuracy for complex problems.
+
+Mathematical fundamentals of the finite element method
+
+The mathematical fundamentals of the finite element method are explained, including the equations for elastic bodies.
+• The equation of motion is derived using variational approaches.
+• The weak formulation enables the numerical solution of complex problems.
+• Finite element analysis requires the discretization of the model into finite elements.
+
+
+Program implementation and nonlinear effects
+
+The implementation of the finite element method in programs is described, including the consideration of nonlinear effects.
+• The matrix equation for static analyses is presented.
+• Geometric nonlinearities and stress stiffening must be taken into account.
+• Dynamic electromechanical coupled analyses use special matrices for the interactions between mechanical and electrical fields.
+
+Use of FEM for optimizing microsensors
+
+The use of finite element methods (FEM) enables a significant reduction in the time required for the design and manufacture of microsensors
+and provides insights into their mode of operation. FEM is particularly useful for modeling the dynamic response of resonant sensors
+and for predicting their performance under operating conditions.
+• FEM enables the analysis of resonance frequencies and modes of microsensors.
+• Modeling helps optimize geometries, e.g., of clamping and decoupling regions.
+• FEM is used for the development of multilayer structures such as piezoelectrically operated microsensors.
+
+
+Natural frequencies and modes of pressure sensors
+
+FEM was used to calculate the eigenvalues and modes of a resonant pressure sensor consisting of a square silicon membrane.
+
+The results show a high degree of agreement between numerical, analytical, and experimental values.
+• The pressure sensor has a thickness of 50 µm and side lengths of 9.2 mm.
+• The resonance frequencies of the higher vibration modes deviate by less than 4% from the analytical results.
+• The intrinsic stress in the ZnO layer was estimated to be approximately -15 MPa.
+
+
+Load-dependent frequency changes
+
+The deflection of the membrane due to pressure differences was calculated using nonlinear analyses taking into account stress stiffening 
+and large deformations. Various FEM models were used to investigate the influence of material behavior and boundary conditions.
+•    The resonance frequency of the sensor is 8317 Hz with a pressure sensitivity of 12.4 Hz/mbar.
+•    Deviations between measured and calculated values are between 2-19%.
+•    The deviations are due to intrinsic stresses and unknown material properties.
+
+
+Thermal behavior of microsensors
+
+Temperature changes strongly influence the properties of resonant microsensors, including the resonance frequency and the 
+possibility of buckling. FEM models were used to characterize the temperature-dependent properties of resonant sensors.
+• The critical temperature difference at which the membrane buckles is approximately 27 K.
+• The maximum static deflection of the membrane was calculated to be 70-77 µm.
+• Temperature compensation methods were investigated to reduce temperature sensitivity.
+
+
+Piezoelectric excitation and efficiency
+
+The efficiency of the conversion of electrical energy into mechanical energy is characterized by the effective electromechanical coupling factor (keff).
+FEM analyses show significant deviations between calculated and measured values due to residual stresses in 
+the ZnO layer.
+• The maximum keff for ZnO is 0.22, while 0.38 is achieved for PZT.
+• Deviations of up to 52% between calculated and measured values were found.
+• Optimization of the keff is possible by selecting the optimal thickness ratio.
+
+
+Optimization of resonators and modes
+
+The optimization of resonant microsensors requires knowledge of their internal behavior, which is achieved through FEM models.
+Various geometric configurations were investigated to improve the performance of the sensors.
+• The resonance frequencies of the first three vibration modes were analyzed as a function of the length of the decoupling zone.
+• Good mechanical decoupling can be achieved with a decoupling zone length of 200-300 µm.
+• The pressure sensitivity varies between 0.5 kHz/bar and 11 kHz/bar depending on the side lengths and thickness of the membrane.
+
