@@ -1,0 +1,51 @@
+\subsubsection{References}
+
+\vspace*{0.5cm}
+
+\begin{description}
+
+\item[[ACFA 89]]: ANSYS Coupled Field Analysis, Rev. 4.4 Tutorial,Swanson Analysis Systems Inc. (1989)
+\\
+\item[[ADS 91]] : ANSYS Dynamics Seminar, Rev. 4.4, Swanson Analysis Systems Inc. (1991)
+\\
+\item[[Ala 92]] : Alavi, M., Fabula, Th., Schumacher, A., Wagner, H.-J.: Monolithic Microbridges in Silicon Using Laser Machining and Anisotropic Etching, \mbox{EUROSENSORS VI}, San Sebastian (1992), accepted for publication in Sensors and Actuators
+\\
+\item[[All 70]] : Allik, H., Hughes, J.R.: Finite Element for Piezoelectric Vibration, Int. Journal Numerical Methods of Engineering, No. 2 (1970)
+\\
+\item[[ASEE 93]] : ANSYS Error Estimation Seminar (Fehleranalyse in der FEM), CADFEM GmbH, Ebersberg/München (1993)
+\\
+\item[[ASP 92]] : ANSYS-Seminar: Piezoelektrizität, CADFEM GmbH, Ebersberg/München (1992)
+\\
+\item[[AUM IV]] : ANSYS User's Manual for Revision 5.0, Volume IV, Theory, ed. Peter Kohnke, Houston, PA, USA (1992)
+\\
+\item[[Bol 85]] : Boley, B.A., Weiner,J.H., Theory of thermal stresses, R.E.Krieger Publishing Comp., John Wiley \& Sons (1985)
+\\
+\item[[Bou 90]] : Bouwstra, S., Resonating microbridge mass flow sensor, Thesis, University of Twente, Enschede, The Netherlands (1990)
+\\
+\item[[Fab 92a]] : Fabula, Th., Schroth, A.: Simulation des dynamischen Verhaltens mikromechanischer Membranen, VDI-Fachtagung für Geräte- und Mikrosystemtechnik, TU Chemnitz (1992), VDI-Bericht 960, VDI-Verlag Düseldorf (1992)
+\\
+\item[[Fab 92b]] : Fabula, Th.: Dynamische Berechnungen in der Mikromechanik - Simulation / Messung, 10.  ANSYS Users' Meeting, Arolsen, 28.-30.10.1992
+\\
+\item[[FDI]] : Fluid Dynamics International, Inc., Evanston, Illinois, USA
+\\
+\item[[FTM 91]] : FIDAP Theoretical Manual, Revision 6.0, Fluid Dynamics International, Inc., Evanston, Illinois, USA (1991)
+\\
+\item[[Ike 90]] : Ikeda, Takuro: Fundamentals of Piezoelectricity, Oxford University Press, Oxford (1990)
+\\
+\item[[Lan 82]] : Landolt-Börnstein: Zahlenwerte und Funktionen aus Naturwissenschaft und Technik, Gruppe III, Band 17a, Berlin, Springer Verlag (1982)
+\\
+\item[[Ler 90]] : Lerch, Reinhard: Simulation of piezoelectric devices by two- and three-dimensional finite elements, IEEE Transactions on UFFC, Vol. 37, No. 2 (1990)
+\\
+\item[[Nai 83]] : Naillon, M., Coursant, R.H., Besnier, F.: Analysis of piezoelectric structures by a finite element method, Acta Electronica, 25,4 (1983) 341-362
+\\
+\item[[Nye 90]] : Nye, J.F: Physical properties of crystals, Oxford science publ., Clarendon Press, Oxford (1990)
+\\
+\item[[Ros 90]] : Roszhart, T.V., The effect of internal friction on the Q of micromachined silicon resonators, IEEE Solid-State Sensor \& Actuator Workshop, Hilton Head Island, South Carolina (1990)
+\\
+\item[[SASI]] : Swanson Analysis Systems Inc., Houston, PA, USA
+\\
+\item[[Ste 91]] : Stemme, G., Resonant silicon sensors, J. Micromech. Microeng. 1 (1991) 113-125
+\\
+\item[[Tic 80]] : Tichy, J., Gautschi, G.: Piezoelektrische Meßtechnik, Springer Verlag, Berlin (1980)
+
+\end{description}
