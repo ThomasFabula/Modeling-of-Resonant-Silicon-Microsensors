@@ -14,6 +14,7 @@ Numerische FEM-Berechnungen mit ANSYS:
 - https://tfconsult.com/tag/fem/
 - https://tfconsult.com/tag/zno/
 - https://tfconsult.com/tag/piezo/
+- https://tfconsult.com/research-development-of-microsensors/
 - https://tfconsult.com/tag/bmft/
 - https://tfconsult.com/tag/quarz/
 - https://tfconsult.com/tag/MEMS/
