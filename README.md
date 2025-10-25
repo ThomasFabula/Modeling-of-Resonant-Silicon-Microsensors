@@ -27,8 +27,10 @@ micro-electro-mechanical-systems
 - PoC-samples wit PZT-ceramics
 
 ## Publication
-Sensors & Materials, invited Paper, 1997:
+Sensors & Materials:
 - https://sensors.myu-group.co.jp/index.php
+Invited Paper, 1997:
+- https://sensors.myu-group.co.jp/article.php?ss=10308
 
 ### Abstract
 
