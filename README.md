@@ -28,6 +28,7 @@ micro-electro-mechanical-systems
 
 ## Publication
 Sensors & Materials, invited Paper, 1997:
+- https://sensors.myu-group.co.jp/index.php
 
 ### Abstract
 
