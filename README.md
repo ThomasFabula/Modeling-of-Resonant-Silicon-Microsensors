@@ -1,5 +1,5 @@
 # Modeling-of-Resonant-Silicon-Microsensors
-Modeling of resonant silicon microsensors (MEMS)
+Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
 
 ## Analytical calculations 
 Analystische Auslegung von resonanten Sensoren / Analytical design of resonant sensors:
