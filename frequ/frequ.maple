@@ -32,3 +32,17 @@ f0      := x/lquad*sqrt(E_red/rho_si);
 
 plot3d(f0,x=t1..t2,y=l1..l2);
 
+==================================================
+
+3D surface plot of the function f0(x, y) as defined inthe code:
+
+f₀(x, y) = (x / y²) × √(E_red / ρ_si) where E_red = E_si / (1 - ν_si²) ≈ 1.696 × 10¹¹ Pa
+
+Key observations:x-axis: thickness x (from 1 µm to 10 µm)
+y-axis: length y (from 1 mm to 10 mm)
+z-axis: f0 value (ranges from ~85 to ~85,300 in the plotted units)
+
+The strong dependence on length (1/y²) is very clear thanks to the log scale and grids.
+
+
+
