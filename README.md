@@ -2,19 +2,26 @@
 Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
 
 
-## Key points from the abstract:
+## Key points:
 
-- Focus: Modeling the dynamic behavior of resonant silicon microsensors.
-- Methods: Analytical methods: Suitable for simple resonator structures with ideal boundary conditions and isotropic material properties.
+### Focus: 
+Modeling the dynamic behavior of resonant silicon microsensors.
+
+### Methods: 
+- Analytical methods: Suitable for simple resonator structures with ideal boundary conditions and isotropic material properties.
 - Finite-element method (FEM): Preferred for complex structures involving arbitrary boundary conditions, anisotropic materials, multi-layer designs, or coupled-field effects.
 
-- Demonstrations: Applied to beam-like force sensors and diaphragm pressure sensors.
-- Capabilities shown: Calculation of eigenfrequencies and mode shapes.
+### Demonstrations: 
+Applied to beam-like force sensors and diaphragm pressure sensors.
+
+### Capabilities shown: 
+- Calculation of eigenfrequencies and mode shapes.
 - Load-dependent frequency shifts.
 - Cross-sensitivities.
 - Geometry optimization for mode selectivity, mode decoupling, electromechanical coupling efficiency, measuring range, and sensitivity.
 
-- Validation: Numerical (FEM) results compared against experimental data to verify the models.
+### Validation:
+Numerical (FEM) results compared against experimental data to verify the models.
 
 This abstract describes a methodology paper that bridges analytical theory and numerical simulation for MEMS (microelectromechanical systems) resonant sensors, emphasizing practical design and optimization.
 
