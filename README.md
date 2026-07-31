@@ -10,14 +10,13 @@ Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation 
 
 - Demonstrations: Applied to beam-like force sensors and diaphragm pressure sensors.
 - Capabilities shown: Calculation of eigenfrequencies and mode shapes.
--- Load-dependent frequency shifts.
--- Cross-sensitivities.
--- Geometry optimization for mode selectivity, mode decoupling, electromechanical coupling efficiency, measuring range, and sensitivity.
+- Load-dependent frequency shifts.
+- Cross-sensitivities.
+- Geometry optimization for mode selectivity, mode decoupling, electromechanical coupling efficiency, measuring range, and sensitivity.
 
-Validation: Numerical (FEM) results compared against experimental data to verify the models.
+- Validation: Numerical (FEM) results compared against experimental data to verify the models.
 
-This abstract describes a methodology paper that bridges analytical theory and numerical simulation for MEMS (microelectromechanical systems) 
-resonant sensors, emphasizing practical design and optimization.
+This abstract describes a methodology paper that bridges analytical theory and numerical simulation for MEMS (microelectromechanical systems) resonant sensors, emphasizing practical design and optimization.
 
 
 
