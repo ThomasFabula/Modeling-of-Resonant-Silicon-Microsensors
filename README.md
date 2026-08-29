@@ -49,7 +49,7 @@ Numerische FEM-Berechnungen mit ANSYS:
 micro-electro-mechanical-systems
 - Silicon & Quartz resonators
 - piezoelectric thin-film layers (AlN, ZnO)
-- PoC-samples wit PZT-ceramics
+- PoC-samples with PZT-ceramics
 
 ## Publication
 Sensors & Materials, Japan:
