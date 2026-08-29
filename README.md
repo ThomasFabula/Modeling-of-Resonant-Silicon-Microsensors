@@ -69,15 +69,15 @@ Invited Paper, 1997:
 #### FRANCAIS
 « Cet article traite de la modélisation des microcapteurs à résonance en silicium à l'aide de méthodes analytiques et d'éléments finis. Dans le cas de structures résonantes simples, de conditions aux limites idéales et de propriétés isotroopes des matériaux, les méthodes analytiques peuvent être utilisées pour modéliser le comportement dynamique des microcapteurs à résonance. Pour les structures de résonateurs plus complexes, les conditions aux limites arbitraires, les propriétés anisotropes des matériaux, les structures multicouches et en présence d'effets de champs couplés, la méthode des éléments finis est bien adaptée pour simuler le comportement des microstructures résonnantes. Des capteurs de force de type poutre et des capteurs de pression à membrane sont utilisés pour démontrer la capacité de cette méthode à calculer les fréquences propres, les formes modales, les changements de fréquence dépendants de la charge et les sensibilités croisées, ainsi qu'à optimiser la géométrie du résonateur en termes de sélectivité modale, de découplage modal, d'efficacité du couplage électromécanique, de plage de mesure et de sensibilité. Les résultats numériques sont comparés aux données expérimentales afin de vérifier les modèles par éléments finis. »
 
-## Literature 6 References
+## Literature & References
 
-Stemme: Resonant silicon sensors, J. Micromech. Microeng. 1 (1991) 113-125
-H.A.C. Tilmans, M. Elwenspoek, J.H.J. Fluitman: Micro reso­nant force gauges, Sensors and Actuators A30 (1992) 35-53
-R.A. Buser: Resonant Sensors, in: Sensors, Vol. 7, Mechanical Sensors, ed. H.H. Bau, N.F. de Rooij, B. Kloeck (VCH, Weinheim, 1994) pp. 205-284
-S. Büttgenbach: Mikromechanik (Teubner, Stuttgart, 1991)
-J.C. Greenwood, D.W. Satchell: Mi­niature silicon resonant pres­sure sensor, IEE Pro­ceedings 135 (1988) 369-372
-K. Ikeda, H. Kuwayama, T. Ko­bayashi, T. Wata­nabe, T. Nishi­kawa, T. Yoshi­da, K. Harada: Si­licon pressu­re sensor integrates resonant strain gauge on diaphragm, Sen­sors and Actua­tors A21-A23 (1990) 146-150
-K.E.B. Thornton, D. Uttamchandani, B. Culshaw: A sensitive optical­ly excited resonator pressure sensor, Sensors and Actuators A24 (1990) 15-19
+- Stemme: Resonant silicon sensors, J. Micromech. Microeng. 1 (1991) 113-125
+- H.A.C. Tilmans, M. Elwenspoek, J.H.J. Fluitman: Micro reso­nant force gauges, Sensors and Actuators A30 (1992) 35-53
+- R.A. Buser: Resonant Sensors, in: Sensors, Vol. 7, Mechanical Sensors, ed. H.H. Bau, N.F. de Rooij, B. Kloeck (VCH, Weinheim, 1994) pp. 205-284
+- S. Büttgenbach: Mikromechanik (Teubner, Stuttgart, 1991)
+- J.C. Greenwood, D.W. Satchell: Mi­niature silicon resonant pres­sure sensor, IEE Pro­ceedings 135 (1988) 369-372
+- K. Ikeda, H. Kuwayama, T. Ko­bayashi, T. Wata­nabe, T. Nishi­kawa, T. Yoshi­da, K. Harada: Si­licon pressu­re sensor integrates resonant strain gauge on diaphragm, Sen­sors and Actua­tors A21-A23 (1990) 146-150
+- K.E.B. Thornton, D. Uttamchandani, B. Culshaw: A sensitive optical­ly excited resonator pressure sensor, Sensors and Actuators A24 (1990) 15-19
 R.A. Buser, L. Schultheis, N.F. de Roo­ij: Silicon pressure sensor based on a resonating element, Sensors and Actuators A25-27 (1991) 717-722
 K. Petersen, F. Pourahmadi, J. Brown, P. Parsons, M. Skinner and J. Tudor: Resonant silicon beam pressure sensor fabricated with silicon fusion bonding, Proc. 6th Int. Conf. Solid-State Sensors and Actuators (Transducers ’91), San Francisco, 1991, pp. 664-667
 A. Schumacher, M. Alavi, Th. Fabula, B. Schmidt, H.-J. Wagner: Monolithic bridge-on-diaphragm microstruc­ture for sensor applica­tions, Proc. Micro Sy­stem Techno­logies 94, Berlin, 1994
