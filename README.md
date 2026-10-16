@@ -45,7 +45,7 @@ Applied to beam-like force sensors and diaphragm pressure sensors.
 - Geometry optimization for mode selectivity, mode decoupling, electromechanical coupling efficiency, measuring range, and sensitivity.
 
 ### Validation
-Numerical (FEM) results compared against experimental data to verify the models.
+Numerical FEM results are compared with experimental data to confirm model accuracy. Overall, the work bridges classical analytical theory and numerical simulation (ANSYS FEM) to support the design and optimization of practical resonant MEMS sensors.
 
 ### Summary
 This abstract describes a methodology paper that bridges analytical theory and numerical simulation for MEMS (microelectromechanical systems) resonant sensors, emphasizing practical design and optimization.
