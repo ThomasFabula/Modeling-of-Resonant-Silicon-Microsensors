@@ -2,9 +2,27 @@
 Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
 
 ## Summary: 
-Analytical and Finite-Element Modeling of Resonant Silicon Microsensors (Fabula & Büttgenbach, Sensors and Materials, Vol. 9, No. 8, 1997)⁠Sensors.myu-group
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors (Fabula & Büttgenbach, Sensors and Materials, Vol. 9, No. 8, 1997)⁠ 
 
 This invited paper presents methods for modeling the dynamic behavior of resonant silicon MEMS sensors that use piezoelectric thin-film layers (e.g., ZnO or AlN) for excitation and detection of mechanical vibrations. The sensors operate on the frequency-analog principle: external loads (force, pressure, etc.) induce stress stiffening that shifts the resonator’s eigenfrequency, which is read out via an oscillator circuit.⁠
+
+### Modeling Approaches
+#### Analytical methods
+are suitable for simple geometries (e.g., doubly clamped prismatic beams or all-around clamped flat diaphragms) under ideal boundary conditions and isotropic material assumptions. They allow calculation of eigenfrequencies, mode shapes, and approximate load-dependent frequency shifts using beam theory, Kirchhoff plate theory, and approximations such as Rayleigh–Ritz.⁠Sensors.myu-group
+
+#### Finite-element method (FEM) 
+(demonstrated with ANSYS) is preferred for realistic cases involving complex geometries (triple-beam force sensors, “beam-on-diaphragm” pressure sensors), arbitrary or non-ideal clamping, anisotropic silicon properties, multi-layer stacks, and coupled-field effects (electromechanical coupling via piezoelectric layers). FEM enables nonlinear analyses that account for stress stiffening and geometric effects
+
+#### Demonstrated Capabilities
+Using beam-like force sensors and diaphragm pressure sensors as examples, the work shows that the methods can:
+
+- Compute eigenfrequencies and mode shapes.
+- Predict load-dependent frequency shifts and cross-sensitivities.
+- Optimize geometry for mode selectivity, mode decoupling, electromechanical coupling efficiency (keff), measuring range, and sensitivity (including electrode layout and ZnO/Si thickness ratios).⁠
+
+Numerical results were compared with experimental data to validate the models. Related work covers silicon and quartz resonators, piezoelectric thin films (AlN, ZnO), and PZT proof-of-concept samples, with further analytical and FEM details available on associated technical pages.⁠GitHub
+
+In short, the paper establishes a practical hybrid modeling framework that combines analytical insight for simple cases with FEM for realistic design and optimization of piezoelectrically driven resonant silicon microsensors.
 
 ## Key points
 
