@@ -1,6 +1,11 @@
 # Modeling-of-Resonant-Silicon-Microsensors
 Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
 
+## Summary: 
+Analytical and Finite-Element Modeling of Resonant Silicon Microsensors (Fabula & Büttgenbach, Sensors and Materials, Vol. 9, No. 8, 1997)⁠Sensors.myu-group
+
+This invited paper presents methods for modeling the dynamic behavior of resonant silicon MEMS sensors that use piezoelectric thin-film layers (e.g., ZnO or AlN) for excitation and detection of mechanical vibrations. The sensors operate on the frequency-analog principle: external loads (force, pressure, etc.) induce stress stiffening that shifts the resonator’s eigenfrequency, which is read out via an oscillator circuit.⁠
+
 ## Key points
 
 ### Focus
