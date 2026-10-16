@@ -141,5 +141,18 @@ C.C. Rankin, F.A. Brogan: An element independent corotational pro­cedu­re for 
 - SDRC: Structural Dynamics Research Corporation, Milford, USA
 
   
+## How does this compare to modern FEM tools
+
+Modern FEM tools are substantially more capable, accurate, and efficient than the 1997 ANSYS-based approach, while preserving the same core physical principles.
+
+The 1997 paper demonstrated that commercial FEM (then ANSYS) could handle realistic resonant silicon microsensors with piezoelectric excitation/detection—calculating eigenfrequencies, mode shapes, load-dependent frequency shifts, cross-sensitivities, and performing geometry optimization for mode selectivity, decoupling, and electromechanical coupling. Analytical methods were still preferred for simple cases due to computational cost. Modern tools build directly on these ideas but make them far more routine and powerful.
+
+### What Has Stayed the Same
+The fundamental goals remain identical: accurate prediction of eigenfrequencies and mode shapes, load-induced frequency shifts (the sensing principle), mode decoupling, electromechanical coupling efficiency, and geometry optimization for sensitivity and selectivity. Experimental validation is still the gold standard. Analytical or semi-analytical models continue to be useful for insight and speed in simpler cases, often hybridized with FEM.
+
+### Practical Takeaway
+In 1997, applying FEM to piezoelectrically driven resonant silicon sensors was relatively advanced and demonstrated the method’s power. Today, these analyses are standard practice. COMSOL is frequently the tool of choice for research on AlN/ScAlN resonators and pressure sensors because of its multiphysics flexibility. ANSYS remains strong for high-fidelity industrial structural work. Specialized platforms like Coventor excel when you need rapid design iteration plus system-level co-simulation with electronics.
+
+The 1997 methodology was sound and pioneering; modern tools mainly remove computational and modeling bottlenecks, add richer physics (especially residual stress and damping), and enable far more aggressive optimization and design exploration. The underlying engineering principles described in the paper are still highly relevant.
 
 
