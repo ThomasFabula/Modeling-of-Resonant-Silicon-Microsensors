@@ -1,5 +1,7 @@
 # Modeling-of-Resonant-Silicon-Microsensors
-Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
+## Modeling of resonant silicon microsensors (MEMS) with piezo-electric excitation and detection
+
+This 1997 invited paper (Sensors & Materials) presents a practical methodology for modeling the dynamic behavior of resonant silicon microsensors that use piezoelectric thin films (e.g., AlN, ZnO) or ceramics for excitation and detection.
 
 ## Summary: 
 Analytical and Finite-Element Modeling of Resonant Silicon Microsensors (Fabula & Büttgenbach, Sensors and Materials, Vol. 9, No. 8, 1997)⁠ 
